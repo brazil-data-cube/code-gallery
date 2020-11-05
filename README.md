@@ -16,6 +16,18 @@ This repository contains a gallery of interesting Jupyter Notebooks based on Bra
 
 ## Jupyter Notebooks
 
-- [Introduction to the Web Time Series Service (WTSS) in Python](https://github.com/brazil-data-cube/jupyter-gallery/blob/master/wtss/Python/wtss-introduction.ipynb).
+### Python
 
-- [Introduction to the Web Time Series Service (WTSS) in R](https://github.com/brazil-data-cube/jupyter-gallery/blob/master/wtss/R/wtss-introduction.ipynb).
+- [Introduction to the SpatioTemporal Asset Catalog in Python](https://github.com/brazil-data-cube/jupyter-gallery/blob/master/Python/stac/stac-introduction.ipynb).
+
+- [NDVI calculation on images obtained through STAC in Python](https://github.com/brazil-data-cube/jupyter-gallery/blob/master/Python/stac/stac-ndvi-calculation.ipynb).
+
+- [Thresholding images obtained through STAC in Python](https://github.com/brazil-data-cube/jupyter-gallery/blob/master/Python/stac/stac-image-threshold.ipynb).
+
+- [Calculating image difference on images obtained through STAC in Python](https://github.com/brazil-data-cube/jupyter-gallery/blob/master/Python/stac/stac-image-difference.ipynb).
+
+- [Introduction to the Web Time Series Service (WTSS) in Python](https://github.com/brazil-data-cube/jupyter-gallery/blob/master/Python/wtss/wtss-introduction.ipynb).
+
+### R
+
+- [Introduction to the Web Time Series Service (WTSS) in R](https://github.com/brazil-data-cube/jupyter-gallery/blob/master/R/wtss/wtss-introduction.ipynb).
