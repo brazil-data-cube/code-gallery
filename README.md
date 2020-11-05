@@ -14,7 +14,7 @@
 This repository contains a gallery of interesting Jupyter Notebooks based on Brazil Data Cube data and technologies.
 
 
-# Jupyter Notebooks
+## Jupyter Notebooks
 
 ### Python
 
