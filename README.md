@@ -16,4 +16,6 @@ This repository contains a gallery of interesting Jupyter Notebooks based on Bra
 
 ## Jupyter Notebooks
 
-- [Introduction to the Web Time Series Service (WTSS) in Python](https://github.com/brazil-data-cube/jupyter-gallery/blob/master/wtss/wtss-introduction.ipynb).
+- [Introduction to the Web Time Series Service (WTSS) in Python](https://github.com/brazil-data-cube/jupyter-gallery/blob/master/wtss/Python/wtss-introduction.ipynb).
+
+- [Introduction to the Web Time Series Service (WTSS) in R](https://github.com/brazil-data-cube/jupyter-gallery/blob/master/wtss/R/wtss-introduction.ipynb).
