@@ -30,4 +30,6 @@ This repository contains a gallery of interesting Jupyter Notebooks based on Bra
 
 ### R
 
+- [Introduction to the SpatioTemporal Asset Catalog in R](https://github.com/brazil-data-cube/jupyter-gallery/blob/master/R/stac/stac-introduction.ipynb).
+
 - [Introduction to the Web Time Series Service (WTSS) in R](https://github.com/brazil-data-cube/jupyter-gallery/blob/master/R/wtss/wtss-introduction.ipynb).
