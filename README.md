@@ -33,3 +33,9 @@ This repository contains a gallery of interesting Jupyter Notebooks based on Bra
 - Introduction to the Web Time Series Service (WTSS). ([Python](https://github.com/brazil-data-cube/jupyter-gallery/blob/master/Python/wtss/wtss-introduction.ipynb), [R](https://github.com/brazil-data-cube/jupyter-gallery/blob/master/R/wtss/wtss-introduction.ipynb)).
 
 - Web Time Series Service (WTSS) examples. ([Python](https://github.com/brazil-data-cube/jupyter-gallery/blob/master/Python/wtss/wtss-examples.ipynb), [R](https://github.com/brazil-data-cube/jupyter-gallery/blob/master/R/wtss/wtss-examples.ipynb)).
+
+## Web Land Trajectory Service (WLTS)
+
+- Introduction to the Web Land Trajectory Service (WLTS). ([Python](https://github.com/brazil-data-cube/jupyter-gallery/blob/master/Python/wlts/wlts-introduction.ipynb))
+
+- Web Land Trajectory Service (WLTS) examples. ([Python](https://github.com/brazil-data-cube/jupyter-gallery/blob/master/Python/wtss/wlts-examples.ipynb)).
