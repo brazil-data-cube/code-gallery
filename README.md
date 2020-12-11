@@ -38,4 +38,4 @@ This repository contains a gallery of interesting Jupyter Notebooks based on Bra
 
 - Introduction to the Web Land Trajectory Service (WLTS). ([Python](https://github.com/brazil-data-cube/jupyter-gallery/blob/master/Python/wlts/wlts-introduction.ipynb))
 
-- Web Land Trajectory Service (WLTS) examples. ([Python](https://github.com/brazil-data-cube/jupyter-gallery/blob/master/Python/wtss/wlts-examples.ipynb)).
+- Web Land Trajectory Service (WLTS) examples. ([Python](https://github.com/brazil-data-cube/jupyter-gallery/blob/master/Python/wlts/wlts-examples.ipynb)).
