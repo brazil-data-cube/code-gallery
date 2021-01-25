@@ -39,3 +39,7 @@ This repository contains a gallery of interesting Jupyter Notebooks based on Bra
 - Introduction to the Web Land Trajectory Service (WLTS). ([Python](https://github.com/brazil-data-cube/jupyter-gallery/blob/master/Python/wlts/wlts-introduction.ipynb), [R](https://github.com/brazil-data-cube/jupyter-gallery/blob/master/R/wlts/wlts-introduction.ipynb))
 
 - Web Land Trajectory Service (WLTS) examples. ([Python](https://github.com/brazil-data-cube/jupyter-gallery/blob/master/Python/wlts/wlts-examples.ipynb)).
+
+## Tile Map Service (BDC-Tiler)
+
+- Introduction to the Tile Map Service (BDC-Tiler). ([Python](https://github.com/brazil-data-cube/jupyter-gallery/blob/master/Python/tiler/bdc-tiler_introduction.ipynb))
