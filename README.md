@@ -45,16 +45,16 @@ This repository contains a gallery of interesting Jupyter Notebooks, R Markdown 
 
 ## Mapping LULC using BDC Data Cubes
 
-- Earth Observation Data Cubes for Brazil: Requirements, Methodology and Products. ([R]())
+- Earth Observation Data Cubes for Brazil: Requirements, Methodology and Products. ([R](https://github.com/brazil-data-cube/code-gallery/tree/master/jupyter/R/bdc-article))
 
 # R Markdown
 
 ## Mapping LULC using BDC Data Cubes
 
-- Earth Observation Data Cubes for Brazil: Requirements, Methodology and Products. ([R]())
+- Earth Observation Data Cubes for Brazil: Requirements, Methodology and Products. ([R](https://github.com/brazil-data-cube/code-gallery/tree/master/rmarkdown/R/bdc-article))
 
 # Scripts
 
 **R**
 
-- Earth Observation Data Cubes for Brazil: Requirements, Methodology and Products. ([R]())
+- Earth Observation Data Cubes for Brazil: Requirements, Methodology and Products. ([R](https://github.com/brazil-data-cube/code-gallery/tree/master/scripts/R/bdc-article))
