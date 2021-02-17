@@ -27,7 +27,6 @@ This repository contains a gallery of interesting Jupyter Notebooks, R Markdown 
 
 - [Calculating image difference on images obtained through STAC in Python](https://github.com/brazil-data-cube/jupyter-gallery/blob/master/Python/stac/stac-image-difference.ipynb).
 
-
 ## Web Time Series Service (WTSS)
 
 - Introduction to the Web Time Series Service (WTSS). ([Python](https://github.com/brazil-data-cube/jupyter-gallery/blob/master/Python/wtss/wtss-introduction.ipynb), [R](https://github.com/brazil-data-cube/jupyter-gallery/blob/master/R/wtss/wtss-introduction.ipynb)).
@@ -44,6 +43,18 @@ This repository contains a gallery of interesting Jupyter Notebooks, R Markdown 
 
 - Introduction to the Tile Map Service (BDC-Tiler). ([Python](https://github.com/brazil-data-cube/jupyter-gallery/blob/master/Python/tiler/bdc-tiler_introduction.ipynb))
 
+## Mapping LULC using BDC Data Cubes
+
+- Earth Observation Data Cubes for Brazil: Requirements, Methodology and Products. ([R]())
+
 # R Markdown
 
+## Mapping LULC using BDC Data Cubes
+
+- Earth Observation Data Cubes for Brazil: Requirements, Methodology and Products. ([R]())
+
 # Scripts
+
+**R**
+
+- Earth Observation Data Cubes for Brazil: Requirements, Methodology and Products. ([R]())
