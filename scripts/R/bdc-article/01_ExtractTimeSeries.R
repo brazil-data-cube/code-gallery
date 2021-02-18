@@ -31,7 +31,7 @@ extract_ts_by_sample_location <- function(collection, start_date, end_date, band
 #
 start_date  <- "2018-09-01"
 end_date    <- "2019-08-31"
-sample_file <- url("https://brazildatacube.dpi.inpe.br/geo-knowledge-hub/bdc-article/training-samples/training-samples.csv")
+sample_file <- "https://brazildatacube.dpi.inpe.br/geo-knowledge-hub/bdc-article/training-samples/training-samples.csv"
 
 #
 # Output directory

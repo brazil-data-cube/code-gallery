@@ -104,7 +104,7 @@ The sample set that will be used to train the MLP model described in the manuscr
 The file `training-samples.csv` in the folder `training-samples` contains the labeled data points.
 
 ```{r}
-sample_file <- url("https://brazildatacube.dpi.inpe.br/geo-knowledge-hub/bdc-article/training-samples/training-samples.csv")
+sample_file <- "https://brazildatacube.dpi.inpe.br/geo-knowledge-hub/bdc-article/training-samples/training-samples.csv"
 ```
 
 As one can see, this file contains the location (`latitude`/`longitude`), a timestamp (`start_date`/`end_date`) and a label:
