@@ -46,7 +46,7 @@ cube <- sits_cube(
   collection  = collection,
   start_date  = start_date,
   end_date    = end_date,
-  tiles       = roi$search_roi
+  roi         = roi$search_roi
 )
 
 #
