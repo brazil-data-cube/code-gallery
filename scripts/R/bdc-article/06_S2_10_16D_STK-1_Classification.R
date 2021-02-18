@@ -46,7 +46,7 @@ cube <- sits_cube(
   collection  = collection,
   start_date  = start_date,
   end_date    = end_date,
-  tiles       = c("089098")
+  tiles       = roi$search_roi
 )
 
 #
@@ -81,6 +81,13 @@ labels         <- sits_label_classification(probs_smoothed, output_dir = output_
 #
 # Saving results 
 #
+
+# classification mosaic
+gdalUtils::mosaic_rasters(c(
+    paste0(output_dir, "/cube_to_classify_088097_probs_class_2018_8_2019_7_v1.tif"),
+    paste0(output_dir, "/cube_to_classify_089097_probs_class_2018_8_2019_7_v1.tif"),
+    paste0(output_dir, "/cube_to_classify_089098_probs_class_2018_8_2019_7_v1.tif")
+), paste0(output_dir, "/cube_to_classify_merged_probs_class_2018_8_2019_7_v1.tif"))
 
 # labels
 saveRDS(

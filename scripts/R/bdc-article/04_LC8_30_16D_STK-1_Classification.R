@@ -81,6 +81,12 @@ labels         <- sits_label_classification(probs_smoothed, output_dir = output_
 # Saving results 
 #
 
+# classification mosaic
+gdalUtils::mosaic_rasters(c(
+    paste0(output_dir, "/cube_to_classify_044048_probs_class_2018_8_2019_7_v1.tif"),
+    paste0(output_dir, "/cube_to_classify_044049_probs_class_2018_8_2019_7_v1.tif")
+), paste0(output_dir, "/cube_to_classify_merged_probs_class_2018_8_2019_7_v1.tif"))
+
 # labels
 saveRDS(
     labels, file = paste0(output_dir, "/labels.rds")
