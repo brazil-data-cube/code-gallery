@@ -169,7 +169,7 @@ labels         <- sits_label_classification(probs_smoothed, output_dir = output_
 
 ```{r}
 rst <- raster::raster(
-    paste0(out_classification_directory, "/cube_to_classify_022024_probs_class_2018_8_2019_7_v1.tif")
+    paste0(output_dir, "/cube_to_classify_022024_probs_class_2018_8_2019_7_v1.tif")
 )
 
 plot(rst)
@@ -180,16 +180,16 @@ plot(rst)
 ```{r}
 # labels
 saveRDS(
-    labels, file = paste0(out_directory, "/labels.rds")
+    labels, file = paste0(output_dir, "/labels.rds")
 )
 
 # probs
 saveRDS(
-    probs, file = paste0(out_directory, "/probs_cube.rds")
+    probs, file = paste0(output_dir, "/probs_cube.rds")
 )
 
 # smoothed probs
 saveRDS(
-    probs_smoothed, file = paste0(out_directory, "/probs_smoothed_cube.rds")
+    probs_smoothed, file = paste0(output_dir, "/probs_smoothed_cube.rds")
 )
 ```
