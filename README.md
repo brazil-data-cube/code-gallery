@@ -19,29 +19,29 @@ This repository contains a gallery of interesting Jupyter Notebooks, R Markdown 
 
 ## Data Access through SpatioTemporal Asset Catalog API (STAC)
 
-- Introduction to the SpatioTemporal Asset Catalog. ([Python](https://github.com/brazil-data-cube/jupyter-gallery/blob/master/Python/stac/stac-introduction.ipynb), [R](https://github.com/brazil-data-cube/jupyter-gallery/blob/master/R/stac/stac-introduction.ipynb))
+- Introduction to the SpatioTemporal Asset Catalog. ([Python](https://github.com/brazil-data-cube/code-gallery/blob/master/jupyter/Python/stac/stac-introduction.ipynb), [R](https://github.com/brazil-data-cube/code-gallery/blob/master/jupyter/R/stac/stac-introduction.ipynb))
 
-- [NDVI calculation on images obtained through STAC in Python](https://github.com/brazil-data-cube/jupyter-gallery/blob/master/Python/stac/stac-ndvi-calculation.ipynb).
+- [NDVI calculation on images obtained through STAC in Python](https://github.com/brazil-data-cube/code-gallery/blob/master/jupyter/Python/stac/stac-ndvi-calculation.ipynb).
 
-- [Thresholding images obtained through STAC in Python](https://github.com/brazil-data-cube/jupyter-gallery/blob/master/Python/stac/stac-image-threshold.ipynb).
+- [Thresholding images obtained through STAC in Python](https://github.com/brazil-data-cube/code-gallery/blob/master/jupyter/Python/stac/stac-image-threshold.ipynb).
 
-- [Calculating image difference on images obtained through STAC in Python](https://github.com/brazil-data-cube/jupyter-gallery/blob/master/Python/stac/stac-image-difference.ipynb).
+- [Calculating image difference on images obtained through STAC in Python](https://github.com/brazil-data-cube/code-gallery/blob/master/jupyter/Python/stac/stac-image-difference.ipynb).
 
 ## Web Time Series Service (WTSS)
 
-- Introduction to the Web Time Series Service (WTSS). ([Python](https://github.com/brazil-data-cube/jupyter-gallery/blob/master/Python/wtss/wtss-introduction.ipynb), [R](https://github.com/brazil-data-cube/jupyter-gallery/blob/master/R/wtss/wtss-introduction.ipynb)).
+- Introduction to the Web Time Series Service (WTSS). ([Python](https://github.com/brazil-data-cube/code-gallery/blob/master/jupyter/Python/wtss/wtss-introduction.ipynb), [R](https://github.com/brazil-data-cube/code-gallery/blob/master/jupyter/R/wtss/wtss-introduction.ipynb)).
 
-- Web Time Series Service (WTSS) examples. ([Python](https://github.com/brazil-data-cube/jupyter-gallery/blob/master/Python/wtss/wtss-examples.ipynb), [R](https://github.com/brazil-data-cube/jupyter-gallery/blob/master/R/wtss/wtss-examples.ipynb)).
+- Web Time Series Service (WTSS) examples. ([Python](https://github.com/brazil-data-cube/code-gallery/blob/master/jupyter/Python/wtss/wtss-examples.ipynb), [R](https://github.com/brazil-data-cube/code-gallery/blob/master/jupyter/R/wtss/wtss-examples.ipynb)).
 
 ## Web Land Trajectory Service (WLTS)
 
-- Introduction to the Web Land Trajectory Service (WLTS). ([Python](https://github.com/brazil-data-cube/jupyter-gallery/blob/master/Python/wlts/wlts-introduction.ipynb), [R](https://github.com/brazil-data-cube/jupyter-gallery/blob/master/R/wlts/wlts-introduction.ipynb))
+- Introduction to the Web Land Trajectory Service (WLTS). ([Python](https://github.com/brazil-data-cube/code-gallery/blob/master/jupyter/Python/wlts/wlts-introduction.ipynb), [R](https://github.com/brazil-data-cube/code-gallery/blob/master/jupyter/R/wlts/wlts-introduction.ipynb))
 
-- Web Land Trajectory Service (WLTS) examples. ([Python](https://github.com/brazil-data-cube/jupyter-gallery/blob/master/Python/wlts/wlts-examples.ipynb)).
+- Web Land Trajectory Service (WLTS) examples. ([Python](https://github.com/brazil-data-cube/code-gallery/blob/master/jupyter/Python/wlts/wlts-examples.ipynb)).
 
 ## Tile Map Service (BDC-Tiler)
 
-- Introduction to the Tile Map Service (BDC-Tiler). ([Python](https://github.com/brazil-data-cube/jupyter-gallery/blob/master/Python/tiler/bdc-tiler_introduction.ipynb))
+- Introduction to the Tile Map Service (BDC-Tiler). ([Python](https://github.com/brazil-data-cube/code-gallery/blob/master/jupyter/Python/tiler/bdc-tiler_introduction.ipynb))
 
 ## Mapping LULC using BDC Data Cubes
 
