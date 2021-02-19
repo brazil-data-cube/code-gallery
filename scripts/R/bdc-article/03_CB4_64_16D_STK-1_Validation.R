@@ -5,8 +5,11 @@ library(raster)
 #
 # Load classification results
 #
-output_dir             <- paste0(path.expand('~/work'), "/bdc-article", "/results", "/CB4_64_16D_STK_1")
-classification_results <- raster::raster(paste0(output_dir, "/cube_to_classify_022024_probs_class_2018_8_2019_7_v1.tif"))
+output_dir <- paste0(path.expand('~/work'), "/bdc-article", "/results", "/CB4_64_16D_STK_1")
+
+classification_results <- raster::raster(
+    paste0(output_dir, "/cube_to_classify_022024_probs_2018_8_2019_7_v1.tif")
+)
 
 #
 # Load validation samples
