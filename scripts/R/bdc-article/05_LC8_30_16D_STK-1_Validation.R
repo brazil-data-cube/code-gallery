@@ -5,7 +5,6 @@ library(raster)
 #
 # Load classification results
 #
-# Load classification results
 output_dir <- paste0(path.expand('~/work'), "/bdc-article", "/results", "/LC8_30_16D_STK_1")
 
 classification_results <- raster::raster(

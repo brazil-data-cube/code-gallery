@@ -64,10 +64,11 @@ To perform the validation, it is initially necessary to load the classification 
 
 ```{r}
 # Load classification results
-classification_out_dir <- paste0(path.expand('~/work'), "/out", "/cb4")
-classification_file    <- paste0(out_classification_directory, "/cube_to_classify_022024_probs_class_2018_8_2019_7_v1.tif")
+output_dir <- paste0(path.expand('~/work'), "/bdc-article", "/results", "/CB4_64_16D_STK_1")
 
-classification_results <- raster::raster(classification_file)
+classification_results <- raster::raster(
+    paste0(output_dir, "/cube_to_classify_022024_probs_2018_8_2019_7_v1.tif")
+)
 
 # Load classification reference
 validation_samples <- readRDS(url("https://brazildatacube.dpi.inpe.br/geo-knowledge-hub/bdc-article/validation-samples/validation-samples.rds"))
