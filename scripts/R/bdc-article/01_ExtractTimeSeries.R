@@ -44,13 +44,13 @@ dir.create(
 )
 
 #
-# Sentinel-2/MSI (16 days 'stack')
+# CBERS-4/AWFI (16 days 'stack')
 #
 cb4_samples_with_ts <- extract_ts_by_sample_location(
-  collection  = "S2_10_16D_STK-1",
+  collection  = "CB4_64_16D_STK-1",
   start_date  = start_date,
   end_date    = end_date, 
-  bands       = c("band4", "band3", "band2", "band8", "NDVI", "EVI"),
+  bands       = c("BAND15", "BAND14", "BAND13", "BAND16", "NDVI", "EVI"),
   sample_file = sample_file
 )
 saveRDS(cb4_samples_with_ts, paste0(output_dir, "/CB4_64_16D_STK_1.rds"))
@@ -68,13 +68,13 @@ l8_samples_with_ts <- extract_ts_by_sample_location(
 saveRDS(l8_samples_with_ts, paste0(output_dir, "/LC8_30_16D_STK_1.rds"))
 
 #
-# CBERS-4/AWFI (16 days 'stack')
+# Sentinel-2/MSI (16 days 'stack')
 #
 s2_samples_with_ts <- extract_ts_by_sample_location(
-  collection  = "CB4_64_16D_STK-1",
+  collection  = "S2_10_16D_STK-1",
   start_date  = start_date,
   end_date    = end_date, 
-  bands       = c("BAND15", "BAND14", "BAND13", "BAND16", "NDVI", "EVI"),
+  bands       = c("band4", "band3", "band2", "band8", "NDVI", "EVI"),
   sample_file = sample_file
 )
 saveRDS(s2_samples_with_ts, paste0(output_dir, "/S2_10_16D_STK_1.rds"))
