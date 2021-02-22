@@ -7,7 +7,7 @@
 
 [![Software License](https://img.shields.io/badge/license-MIT-green)](https://github.com/brazil-data-cube/code-gallery/blob/master/LICENSE)
 [![Software Life Cycle](https://img.shields.io/badge/lifecycle-maturing-blue.svg)](https://www.tidyverse.org/lifecycle/#maturing)
-[![nbviewer](https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.jupyter.org/github/brazil-data-cube/code-gallery/blob/master/tabçe-of-contents.ipynb)
+[![nbviewer](https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.jupyter.org/github/brazil-data-cube/code-gallery/blob/master/table-of-contents.ipynb)
 [![Join us at Discord](https://img.shields.io/discord/689541907621085198?logo=discord&logoColor=ffffff&color=7389D8)](https://discord.com/channels/689541907621085198#)
 
 <!-- badges: end -->
