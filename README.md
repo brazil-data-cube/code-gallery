@@ -22,11 +22,8 @@ This repository contains a gallery of interesting Jupyter Notebooks, R Markdown 
 
 - Introduction to the SpatioTemporal Asset Catalog. ([Python](https://github.com/brazil-data-cube/code-gallery/blob/master/jupyter/Python/stac/stac-introduction.ipynb), [R](https://github.com/brazil-data-cube/code-gallery/blob/master/jupyter/R/stac/stac-introduction.ipynb))
 
-- [NDVI calculation on images obtained through STAC in Python](https://github.com/brazil-data-cube/code-gallery/blob/master/jupyter/Python/stac/stac-ndvi-calculation.ipynb).
+- [Image processing on images obtained through STAC](https://github.com/brazil-data-cube/code-gallery/blob/master/jupyter/Python/stac/stac-image-processing.ipynb).
 
-- [Thresholding images obtained through STAC in Python](https://github.com/brazil-data-cube/code-gallery/blob/master/jupyter/Python/stac/stac-image-threshold.ipynb).
-
-- [Calculating image difference on images obtained through STAC in Python](https://github.com/brazil-data-cube/code-gallery/blob/master/jupyter/Python/stac/stac-image-difference.ipynb).
 
 ## Web Time Series Service (WTSS)
 
