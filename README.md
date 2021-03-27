@@ -35,7 +35,7 @@ This repository contains a gallery of interesting Jupyter Notebooks, R Markdown 
 
 - Introduction to the Web Land Trajectory Service (WLTS). ([Python](https://github.com/brazil-data-cube/code-gallery/blob/master/jupyter/Python/wlts/wlts-introduction.ipynb), [R](https://github.com/brazil-data-cube/code-gallery/blob/master/jupyter/R/wlts/wlts-introduction.ipynb))
 
-- Web Land Trajectory Service (WLTS) examples. ([Python](https://github.com/brazil-data-cube/code-gallery/blob/master/jupyter/Python/wlts/wlts-examples.ipynb)).
+- Web Land Trajectory Service (WLTS) examples. ([Python](https://github.com/brazil-data-cube/code-gallery/blob/master/jupyter/Python/wlts/wlts-example.ipynb)).
 
 ## Tile Map Service (BDC-Tiler)
 
