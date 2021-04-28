@@ -39,7 +39,7 @@ This repository contains a gallery of interesting Jupyter Notebooks, R Markdown 
 
 ## Land Cover Classification System Service (LCCS)
 
-* Introduction to the Land Cover Classification System Service (LCCS). ([Python](./jupyter/Python/lccs/lccs-introduction.ipynb))
+* Introduction to the Land Cover Classification System Service (LCCS). ([Python](https://github.com/brazil-data-cube/code-gallery/blob/master/jupyter/Python/lccs/lccs-introduction.ipynb))
 
 ## Tile Map Service (BDC-Tiler)
 
