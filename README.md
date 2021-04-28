@@ -37,6 +37,10 @@ This repository contains a gallery of interesting Jupyter Notebooks, R Markdown 
 
 - Web Land Trajectory Service (WLTS) examples. ([Python](https://github.com/brazil-data-cube/code-gallery/blob/master/jupyter/Python/wlts/wlts-example.ipynb)).
 
+## Land Cover Classification System Service (LCCS)
+
+* Introduction to the Land Cover Classification System Service (LCCS). ([Python](./jupyter/Python/lccs/lccs-introduction.ipynb))
+
 ## Tile Map Service (BDC-Tiler)
 
 - Introduction to the Tile Map Service (BDC-Tiler). ([Python](https://github.com/brazil-data-cube/code-gallery/blob/master/jupyter/Python/tiler/bdc-tiler_introduction.ipynb))
