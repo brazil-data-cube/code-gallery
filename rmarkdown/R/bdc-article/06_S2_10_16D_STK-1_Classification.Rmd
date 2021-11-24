@@ -224,7 +224,7 @@ The next cell perform this operation:
 probs_smoothed <- sits_smooth(probs, type = "bayes", output_dir = output_dir)
 ```
 
-> The above cell will create three rasters: `cube_to_classify_088097_probs_2018_8_2019_7_bayes_v1.tif`, `cube_to_classify_089097_probs_2018_8_2019_7_bayes_v1.tif` and `cube_to_classify_089098_probs_class_2018_8_2019_7_bayes_v1.tif`.
+> The above cell will create three rasters: `cube_to_classify_088097_probs_2018_8_2019_7_bayes_v1.tif`, `cube_to_classify_089097_probs_2018_8_2019_7_bayes_v1.tif` and `cube_to_classify_089098_probs_2018_8_2019_7_bayes_v1.tif`.
 
 After that, to generate the thematic maps the most probable class is taken as the pixel class. Each class is represented by the codes 1 (Crop), 2 (Natural Vegetation), and 3 (Pasture). The next cell show how to perform this step:
 
@@ -252,4 +252,3 @@ plot(
     raster::raster(paste0(output_dir, "/cube_to_classify_merged_probs_class_2018_8_2019_7_v1.tif"))
 )
 ```
-
