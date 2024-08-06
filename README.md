@@ -31,6 +31,8 @@ This repository contains a gallery of interesting Jupyter Notebooks, R Markdown 
 
 - Web Time Series Service (WTSS) examples. ([Python](https://github.com/brazil-data-cube/code-gallery/blob/master/jupyter/Python/wtss/wtss-examples.ipynb), [R](https://github.com/brazil-data-cube/code-gallery/blob/master/jupyter/R/wtss/wtss-examples.ipynb)).
 
+- Web Time Series Service 2 - Time series from geometry. ([Python](https://github.com/brazil-data-cube/code-gallery/blob/master/jupyter/Python/wtss/wtss2.ipynb)
+
 ## Web Land Trajectory Service (WLTS)
 
 - Introduction to the Web Land Trajectory Service (WLTS). ([Python](https://github.com/brazil-data-cube/code-gallery/blob/master/jupyter/Python/wlts/wlts-introduction.ipynb), [R](https://github.com/brazil-data-cube/code-gallery/blob/master/jupyter/R/wlts/wlts-introduction.ipynb))
