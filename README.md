@@ -22,7 +22,7 @@ This repository contains a gallery of interesting Jupyter Notebooks, R Markdown 
 
 - Introduction to the SpatioTemporal Asset Catalog. ([Python](https://github.com/brazil-data-cube/code-gallery/blob/master/jupyter/Python/stac/stac-introduction.ipynb), [R](https://github.com/brazil-data-cube/code-gallery/blob/master/jupyter/R/stac/stac-introduction.ipynb))
 
-- [Image processing on images obtained through STAC](https://github.com/brazil-data-cube/code-gallery/blob/master/jupyter/Python/stac/stac-image-processing.ipynb).
+- Image processing on images obtained through STAC. ([Python](https://github.com/brazil-data-cube/code-gallery/blob/master/jupyter/Python/stac/stac-image-processing.ipynb)).
 
 
 ## Web Time Series Service (WTSS)
@@ -30,6 +30,8 @@ This repository contains a gallery of interesting Jupyter Notebooks, R Markdown 
 - Introduction to the Web Time Series Service (WTSS). ([Python](https://github.com/brazil-data-cube/code-gallery/blob/master/jupyter/Python/wtss/wtss-introduction.ipynb), [R](https://github.com/brazil-data-cube/code-gallery/blob/master/jupyter/R/wtss/wtss-introduction.ipynb)).
 
 - Web Time Series Service (WTSS) examples. ([Python](https://github.com/brazil-data-cube/code-gallery/blob/master/jupyter/Python/wtss/wtss-examples.ipynb), [R](https://github.com/brazil-data-cube/code-gallery/blob/master/jupyter/R/wtss/wtss-examples.ipynb)).
+
+- Web Time Series Service 2 - Time series from geometry. ([Python](https://github.com/brazil-data-cube/code-gallery/blob/master/jupyter/Python/wtss/wtss2.ipynb)).
 
 ## Web Land Trajectory Service (WLTS)
 
