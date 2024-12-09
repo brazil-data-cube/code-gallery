@@ -39,6 +39,13 @@ This repository contains a gallery of interesting Jupyter Notebooks, R Markdown 
 
 - Web Land Trajectory Service (WLTS) examples. ([Python](https://github.com/brazil-data-cube/code-gallery/blob/master/jupyter/Python/wlts/wlts-example.ipynb)).
 
+## Web Crop Phenology Metrics Service (WCPMS)
+
+- Introduction to the Web Crop Phenology Metrics Service (WCPMS). ([Python](https://github.com/brazil-data-cube/code-gallery/blob/master/jupyter/Python/wcpms/wcpms-introduction.ipynb)).
+
+- Web Crop Phenology Metrics Service (WCPMS) Examples. ([Python](https://github.com/brazil-data-cube/code-gallery/blob/master/jupyter/Python/wcpms/wcpms-example.ipynb)).
+
+
 ## Land Cover Classification System Service (LCCS)
 
 * Introduction to the Land Cover Classification System Service (LCCS). ([Python](https://github.com/brazil-data-cube/code-gallery/blob/master/jupyter/Python/lccs/lccs-introduction.ipynb))
