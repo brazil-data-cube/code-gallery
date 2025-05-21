@@ -1,0 +1,353 @@
+{
+    "type": "FeatureCollection",
+    "links": [
+        {
+            "rel": "self",
+            "href": null
+        }
+    ],
+    "context": {
+        "matched": 2,
+        "returned": 2
+    },
+    "features": [
+        {
+            "type": "Feature",
+            "id": "S2A_MSIL1C_20250505T132251_N0511_R038_T23KLP_20250505T230941",
+            "collection": "S2_L1C_BUNDLE-1",
+            "stac_version": "1.0.0",
+            "stac_extensions": "https://stac-extensions.github.io/eo/v1.0.0/schema.json",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -46.9435876063805,
+                            -23.4978362427281
+                        ],
+                        [
+                            -46.9487561076625,
+                            -23.519643913747
+                        ],
+                        [
+                            -46.9595842442168,
+                            -23.5648187892141
+                        ],
+                        [
+                            -46.9585644271107,
+                            -23.4976995993171
+                        ],
+                        [
+                            -46.9435876063805,
+                            -23.4978362427281
+                        ]
+                    ]
+                ]
+            },
+            "links": [
+                {
+                    "rel": "self",
+                    "href": null
+                },
+                {
+                    "href": "https://data.inpe.br/bdc/stac/v1/collections/S2_L1C_BUNDLE-1/items/S2A_MSIL1C_20250505T132251_N0511_R038_T23KLP_20250505T230941",
+                    "rel": "self"
+                },
+                {
+                    "href": "https://data.inpe.br/bdc/stac/v1/collections/S2_L1C_BUNDLE-1",
+                    "rel": "parent"
+                },
+                {
+                    "href": "https://data.inpe.br/bdc/stac/v1/collections/S2_L1C_BUNDLE-1",
+                    "rel": "collection"
+                },
+                {
+                    "href": "https://data.inpe.br/bdc/stac/v1/",
+                    "rel": "root"
+                }
+            ],
+            "bbox": [
+                -46.9736242233168,
+                -24.4991336718276,
+                -45.8834720836762,
+                -23.4976995990103
+            ],
+            "assets": {
+                "asset": {
+                    "href": "/home/jovyan/Desktop/Cursos/TechTalks/bdc/data/S2_L1C_BUNDLE/v001/23/K/LP/2025/05/S2A_MSIL1C_20250505T132251_N0511_R038_T23KLP_20250505T230941/S2A_MSIL1C_20250505T132251_N0511_R038_T23KLP_20250505T230941.zip",
+                    "type": "application/zip",
+                    "roles": "data",
+                    "created": "2025-05-06T06:43:58",
+                    "updated": "2025-05-06T06:43:58",
+                    "bdc:size": 16442277,
+                    "checksum:multihash": "1220445d5bc83b8590046c2b430dbf48da1354f3fa11d8568a081c4213a530adf9e5"
+                },
+                "thumbnail": {
+                    "href": "/home/jovyan/Desktop/Cursos/TechTalks/bdc/data/S2_L1C_BUNDLE/v001/23/K/LP/2025/05/S2A_MSIL1C_20250505T132251_N0511_R038_T23KLP_20250505T230941/S2A_MSIL1C_20250505T132251_N0511_R038_T23KLP_20250505T230941.png",
+                    "type": "image/png",
+                    "roles": "thumbnail",
+                    "created": "2025-05-06T06:43:58",
+                    "updated": "2025-05-06T06:43:58",
+                    "bdc:size": 751,
+                    "checksum:multihash": "12202b14aefa0e8954d54afdb4b19d86bdc4f4c14771919b7bab91eeed3d54742bfd"
+                }
+            },
+            "properties": {
+                "datetime": "2025-05-05T13:22:51.000000Z",
+                "start_datetime": "2025-05-05T13:22:51.000000Z",
+                "end_datetime": "2025-05-05T13:22:51.000000Z",
+                "created": "2025-05-06T06:43:58.947979Z",
+                "updated": "2025-05-06T06:43:58.947541Z",
+                "Id": "54c71503-0977-4ea4-8961-f9ac02c9ec60",
+                "Name": "S2A_MSIL1C_20250505T132251_N0511_R038_T23KLP_20250505T230941.SAFE",
+                "link": "https://catalogue.ams.dataspace.copernicus.eu/odata/v1/Products(54c71503-0977-4ea4-8961-f9ac02c9ec60)/$value",
+                "Online": true,
+                "S3Path": "/eodata/Sentinel-2/MSI/L1C/2025/05/05/S2A_MSIL1C_20250505T132251_N0511_R038_T23KLP_20250505T230941.SAFE",
+                "origin": "ESA",
+                "tileId": "23KLP",
+                "Checksum": [
+                    {
+                        "Value": "53ae2dfb2d54c97ab24d48a3ef76537f",
+                        "Algorithm": "MD5",
+                        "ChecksumDate": "2025-05-06T00:35:19.471188Z"
+                    },
+                    {
+                        "Value": "6ee64fd3f541d5ed562355c4e3db8501bbd8690ede47b0c3f7cfb8c2b7960b86",
+                        "Algorithm": "BLAKE3",
+                        "ChecksumDate": "2025-05-06T00:35:19.517847Z"
+                    }
+                ],
+                "scene_id": "S2A_MSIL1C_20250505T132251_N0511_R038_T23KLP_20250505T230941",
+                "Footprint": "geography'SRID=4326;POLYGON ((-46.943587606380476 -23.497836242728116, -46.958564427110694 -23.49769959931714, -46.959584244216764 -23.564818789214083, -46.94875610766248 -23.519643913747, -46.943587606380476 -23.497836242728116))'",
+                "OriginDate": "2025-05-06T00:29:02.000000Z",
+                "cloudCover": 0,
+                "ContentDate": {
+                    "End": "2025-05-05T13:22:51.024000Z",
+                    "Start": "2025-05-05T13:22:51.024000Z"
+                },
+                "ContentType": "application/octet-stream",
+                "cloud_cover": 0,
+                "datastripId": "S2A_OPER_MSI_L1C_DS_2APS_20250505T230941_S20250505T132516_N05.11",
+                "orbitNumber": 51544,
+                "productType": "S2MSI1C",
+                "EvictionDate": "9999-12-31T23:59:59.999999Z",
+                "GeoFootprint": {
+                    "type": "Polygon",
+                    "coordinates": [
+                        [
+                            [
+                                -46.9435876063805,
+                                -23.4978362427281
+                            ],
+                            [
+                                -46.9585644271107,
+                                -23.4976995993171
+                            ],
+                            [
+                                -46.9595842442168,
+                                -23.5648187892141
+                            ],
+                            [
+                                -46.9487561076625,
+                                -23.519643913747
+                            ],
+                            [
+                                -46.9435876063805,
+                                -23.4978362427281
+                            ]
+                        ]
+                    ]
+                },
+                "ContentLength": 16442277,
+                "sourceProduct": "S2A_OPER_MSI_L1C_TL_2APS_20250505T230941_A051544_T23KLP_N05.11,S2A_OPER_MSI_L1C_DS_2APS_20250505T230941_S20250505T132516_N05.11,S2A_OPER_MSI_L1C_TC_2APS_20250505T230941_A051544_T23KLP_N05.11.jp2",
+                "endingDateTime": "2025-05-05T13:22:51.024000Z",
+                "processingDate": "2025-05-05T23:09:41.000000Z",
+                "productGroupId": "GS2A_20250505T132251_051544_N05.11",
+                "PublicationDate": "2025-05-06T00:35:20.465603Z",
+                "operationalMode": "INS-NOBS",
+                "processingLevel": "S2MSI1C",
+                "ModificationDate": "2025-05-06T00:35:20.465603Z",
+                "processorVersion": "05.11",
+                "beginningDateTime": "2025-05-05T13:22:51.024000Z",
+                "granuleIdentifier": "S2A_OPER_MSI_L1C_TL_2APS_20250505T230941_A051544_T23KLP_N05.11",
+                "platformShortName": "SENTINEL-2",
+                "instrumentShortName": "MSI",
+                "relativeOrbitNumber": 38,
+                "@odata.mediaContentType": "application/octet-stream",
+                "sourceProductOriginDate": "2025-05-06T00:28:54Z,2025-05-06T00:29:02Z,2025-05-06T00:28:54Z",
+                "platformSerialIdentifier": "A",
+                "bdc:tiles": "23KLP",
+                "eo:cloud_cover": 0
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "S2B_MSIL1C_20250505T131249_N0511_R138_T23KLP_20250505T162436",
+            "collection": "S2_L1C_BUNDLE-1",
+            "stac_version": "1.0.0",
+            "stac_extensions": "https://stac-extensions.github.io/eo/v1.0.0/schema.json",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -46.9585644271107,
+                            -23.4976995993171
+                        ],
+                        [
+                            -45.8834720836772,
+                            -23.5075083756635
+                        ],
+                        [
+                            -45.8902695443257,
+                            -24.4991336721453
+                        ],
+                        [
+                            -46.9736242233197,
+                            -24.488859009711
+                        ],
+                        [
+                            -46.9585644271107,
+                            -23.4976995993171
+                        ]
+                    ]
+                ]
+            },
+            "links": [
+                {
+                    "rel": "self",
+                    "href": null
+                },
+                {
+                    "href": "https://data.inpe.br/bdc/stac/v1/collections/S2_L1C_BUNDLE-1/items/S2B_MSIL1C_20250505T131249_N0511_R138_T23KLP_20250505T162436",
+                    "rel": "self"
+                },
+                {
+                    "href": "https://data.inpe.br/bdc/stac/v1/collections/S2_L1C_BUNDLE-1",
+                    "rel": "parent"
+                },
+                {
+                    "href": "https://data.inpe.br/bdc/stac/v1/collections/S2_L1C_BUNDLE-1",
+                    "rel": "collection"
+                },
+                {
+                    "href": "https://data.inpe.br/bdc/stac/v1/",
+                    "rel": "root"
+                }
+            ],
+            "bbox": [
+                -46.9736242233168,
+                -24.4991336718276,
+                -45.8834720836762,
+                -23.4976995990103
+            ],
+            "assets": {
+                "asset": {
+                    "href": "/home/jovyan/Desktop/Cursos/TechTalks/bdc/data/S2_L1C_BUNDLE/v001/23/K/LP/2025/05/S2B_MSIL1C_20250505T131249_N0511_R138_T23KLP_20250505T162436/S2B_MSIL1C_20250505T131249_N0511_R138_T23KLP_20250505T162436.zip",
+                    "type": "application/zip",
+                    "roles": "data",
+                    "created": "2025-05-06T06:46:05",
+                    "updated": "2025-05-06T06:46:06",
+                    "bdc:size": 702739809,
+                    "checksum:multihash": "1220a7423166e8e272e71e3a09622d79c20c5e71e03ac920e38a061e4aa9b9b1c476"
+                },
+                "thumbnail": {
+                    "href": "/home/jovyan/Desktop/Cursos/TechTalks/bdc/data/S2_L1C_BUNDLE/v001/23/K/LP/2025/05/S2B_MSIL1C_20250505T131249_N0511_R138_T23KLP_20250505T162436/S2B_MSIL1C_20250505T131249_N0511_R138_T23KLP_20250505T162436.png",
+                    "type": "image/png",
+                    "roles": "thumbnail",
+                    "created": "2025-05-06T06:46:06",
+                    "updated": "2025-05-06T06:46:06",
+                    "bdc:size": 125745,
+                    "checksum:multihash": "12208377b740f9496c6695ee4badfded6e173a14b8ea44bf077761e49db1e8685b29"
+                }
+            },
+            "properties": {
+                "datetime": "2025-05-05T13:12:49.000000Z",
+                "start_datetime": "2025-05-05T13:12:49.000000Z",
+                "end_datetime": "2025-05-05T13:12:49.000000Z",
+                "created": "2025-05-06T06:46:06.871877Z",
+                "updated": "2025-05-06T06:46:06.871434Z",
+                "Id": "010b3915-6a32-41db-b674-5332530c9110",
+                "Name": "S2B_MSIL1C_20250505T131249_N0511_R138_T23KLP_20250505T162436.SAFE",
+                "link": "https://catalogue.ams.dataspace.copernicus.eu/odata/v1/Products(010b3915-6a32-41db-b674-5332530c9110)/$value",
+                "Online": true,
+                "S3Path": "/eodata/Sentinel-2/MSI/L1C/2025/05/05/S2B_MSIL1C_20250505T131249_N0511_R138_T23KLP_20250505T162436.SAFE",
+                "origin": "ESA",
+                "tileId": "23KLP",
+                "Checksum": [
+                    {
+                        "Value": "7933859fc054b64d9ec13ddc077e9ae2",
+                        "Algorithm": "MD5",
+                        "ChecksumDate": "2025-05-05T17:03:53.665781Z"
+                    },
+                    {
+                        "Value": "52058e7abf826353ccdec62230cdb03cb0d10cd2a5c0bd3610299d466ab4a307",
+                        "Algorithm": "BLAKE3",
+                        "ChecksumDate": "2025-05-05T17:03:54.713034Z"
+                    }
+                ],
+                "scene_id": "S2B_MSIL1C_20250505T131249_N0511_R138_T23KLP_20250505T162436",
+                "Footprint": "geography'SRID=4326;POLYGON ((-46.958564427110694 -23.49769959931714, -46.97362422331974 -24.488859009711035, -45.89026954432569 -24.49913367214532, -45.88347208367722 -23.50750837566348, -46.958564427110694 -23.49769959931714))'",
+                "OriginDate": "2025-05-05T16:54:14.000000Z",
+                "cloudCover": 0.020006569321,
+                "ContentDate": {
+                    "End": "2025-05-05T13:12:49.024000Z",
+                    "Start": "2025-05-05T13:12:49.024000Z"
+                },
+                "ContentType": "application/octet-stream",
+                "cloud_cover": 0.020006569321,
+                "datastripId": "S2B_OPER_MSI_L1C_DS_2BPS_20250505T162436_S20250505T131243_N05.11",
+                "orbitNumber": 42635,
+                "productType": "S2MSI1C",
+                "EvictionDate": "9999-12-31T23:59:59.999999Z",
+                "GeoFootprint": {
+                    "type": "Polygon",
+                    "coordinates": [
+                        [
+                            [
+                                -46.9585644271107,
+                                -23.4976995993171
+                            ],
+                            [
+                                -46.9736242233197,
+                                -24.488859009711
+                            ],
+                            [
+                                -45.8902695443257,
+                                -24.4991336721453
+                            ],
+                            [
+                                -45.8834720836772,
+                                -23.5075083756635
+                            ],
+                            [
+                                -46.9585644271107,
+                                -23.4976995993171
+                            ]
+                        ]
+                    ]
+                },
+                "ContentLength": 702739809,
+                "sourceProduct": "S2B_OPER_MSI_L1C_TL_2BPS_20250505T162436_A042635_T23KLP_N05.11,S2B_OPER_MSI_L1C_DS_2BPS_20250505T162436_S20250505T131243_N05.11,S2B_OPER_MSI_L1C_TC_2BPS_20250505T162436_A042635_T23KLP_N05.11.jp2",
+                "endingDateTime": "2025-05-05T13:12:49.024000Z",
+                "processingDate": "2025-05-05T16:24:36.000000Z",
+                "productGroupId": "GS2B_20250505T131249_042635_N05.11",
+                "PublicationDate": "2025-05-05T17:03:55.739653Z",
+                "operationalMode": "INS-NOBS",
+                "processingLevel": "S2MSI1C",
+                "ModificationDate": "2025-05-05T17:03:55.739653Z",
+                "processorVersion": "05.11",
+                "beginningDateTime": "2025-05-05T13:12:49.024000Z",
+                "granuleIdentifier": "S2B_OPER_MSI_L1C_TL_2BPS_20250505T162436_A042635_T23KLP_N05.11",
+                "platformShortName": "SENTINEL-2",
+                "instrumentShortName": "MSI",
+                "relativeOrbitNumber": 138,
+                "@odata.mediaContentType": "application/octet-stream",
+                "sourceProductOriginDate": "2025-05-05T16:53:44Z,2025-05-05T16:41:53Z,2025-05-05T16:54:14Z",
+                "platformSerialIdentifier": "B",
+                "bdc:tiles": "23KLP",
+                "eo:cloud_cover": 0.020006569321
+            }
+        }
+    ]
+}
