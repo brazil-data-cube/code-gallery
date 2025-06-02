@@ -43,7 +43,7 @@ This repository contains a gallery of interesting Jupyter Notebooks, R Markdown 
 
 - Introduction to the Web Crop Phenology Metrics Service (WCPMS). ([Python](https://github.com/brazil-data-cube/code-gallery/blob/master/jupyter/Python/wcpms/wcpms-introduction.ipynb)).
 
-- Web Crop Phenology Metrics Service (WCPMS) Examples. ([Python](https://github.com/brazil-data-cube/code-gallery/blob/master/jupyter/Python/wcpms/wcpms-example.ipynb)).
+- Web Crop Phenology Metrics Service (WCPMS) Region. ([Python](https://github.com/brazil-data-cube/code-gallery/blob/master/jupyter/Python/wcpms/wcpms-phenometrics-region.ipynb)).
 
 
 ## Land Cover Classification System Service (LCCS)
