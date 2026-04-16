@@ -22,6 +22,8 @@ This repository contains a gallery of interesting Jupyter Notebooks, R Markdown 
 
 - Introduction to the SpatioTemporal Asset Catalog. ([Python](https://github.com/brazil-data-cube/code-gallery/blob/master/jupyter/Python/stac/stac-introduction.ipynb), [R](https://github.com/brazil-data-cube/code-gallery/blob/master/jupyter/R/stac/stac-introduction.ipynb))
 
+- SpatioTemporal Asset Catalog and Geometries. ([Python](https://github.com/brazil-data-cube/code-gallery/blob/master/jupyter/Python/stac/stac-and-geometries.ipynb)).
+
 - Image processing on images obtained through STAC. ([Python](https://github.com/brazil-data-cube/code-gallery/blob/master/jupyter/Python/stac/stac-image-processing.ipynb)).
 
 
