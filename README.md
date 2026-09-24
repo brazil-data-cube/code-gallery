@@ -78,6 +78,8 @@ This repository contains a gallery of interesting Jupyter Notebooks, R Markdown 
 
 - [Visualização e Extração de Séries Temporais de Valores de Radiação Solar Estimados pelo Modelo GL1.2](https://github.com/brazil-data-cube/code-gallery/tree/master/jupyter/events/big-techtalks/06)
 
+- [Sentinel-1 com Correção Radiométrica do Terreno: acesso e uso dos dados com Python](https://github.com/brazil-data-cube/code-gallery/tree/master/jupyter/events/big-techtalks/07)
+
 - [Love Data Day 2025](https://github.com/brazil-data-cube/code-gallery/tree/master/jupyter/events/big-techtalks/2025-love-data-day)
 
 - [Love Data Day 2026](https://github.com/brazil-data-cube/code-gallery/tree/master/jupyter/events/big-techtalks/2026-love-data-day)
