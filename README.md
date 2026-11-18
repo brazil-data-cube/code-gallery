@@ -52,9 +52,6 @@ This repository contains a gallery of interesting Jupyter Notebooks, R Markdown 
 
 * Introduction to the Land Cover Classification System Service (LCCS). ([Python](https://github.com/brazil-data-cube/code-gallery/blob/master/jupyter/Python/lccs/lccs-introduction.ipynb))
 
-## Sample Database (SAMPLE-DB)
-
-* Introduction to the Sample Database (SAMPLE-DB). ([Python](https://github.com/brazil-data-cube/code-gallery/blob/master/jupyter/Python/sample/sample-introduction.ipynb))
 
 ## Tile Map Service (BDC-Tiler)
 
